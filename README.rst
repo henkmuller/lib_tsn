@@ -57,13 +57,13 @@ Required libraries (dependencies)
 * lib_random 1.2.0
 
 The example applications additionally require lib_i2s 5.1.0.
-They run on the AN02054 QF60B board: XCORE.AI with two RMII PHYs, of which PHY 0 is used.
+AN01032 runs on the AN02054 QF60B board: XCORE.AI with two RMII PHYs, of which PHY 0 is used.
 
 Related application notes
 -------------------------
 
-* AN00202: 100 Mbit AVB endpoint example using stereo I2S (``examples/AN00202_gige_avb_i2s_demo``)
-* AN00203: 100 Mbit AVB endpoint example using stereo I2S (``examples/AN00203_gige_avb_tdm_demo``)
+* AN00202: gigabit AVB endpoint example using I2S (``examples/AN00202_gige_avb_i2s_demo``)
+* AN00203: gigabit AVB endpoint example using TDM (``examples/AN00203_gige_avb_tdm_demo``)
 * AN01032: 100 Mbit AVB endpoint example using I2S (``examples/AN01032_100Mbit_avb_i2s_demo``)
 
 Support
