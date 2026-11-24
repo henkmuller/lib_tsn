@@ -5,6 +5,7 @@ UNRELEASED
 ----------
 
   * CHANGED:   Added support for xcommon-cmake build system 
+  * ADDED:     Top-level CMakeLists.txt, currently building the AN01032 example only
   * CHANGED:   Used frame (rather than sample) based lib_i2s API in AVB demo
   * CHANGED:   AN01032 example ported to the AN02054 QF60B board: RMII PHY 0 on
                tile 0, TLV320AIC3204 stereo codec, stereo I2S and 2 media channels.
